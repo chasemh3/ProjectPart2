@@ -1,7 +1,9 @@
 from django.shortcuts import render
+from .models import Customer 
 
 # Create your views here.
 def indexPageView(request):
+    childrenList = Customer.objects.all 
     return render(request, 'persons/index.html')
 
 def kidsTable(request, last_name, first_name, age_at_missing, city, state, gender, race):
