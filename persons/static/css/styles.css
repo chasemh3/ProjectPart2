@@ -10947,7 +10947,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpbGRyZW4lMjBpbiUyMG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80");
+  background-image: url("/static/assets/img/header-bg.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
